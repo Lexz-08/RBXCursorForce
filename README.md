@@ -10,4 +10,4 @@ A program to force the cursor to the center of your Roblox game client window.<b
 ***This program is meant to be used in conjunction with the shift-lock feature, or if you're holding down right-click in the case that shift-lock is unavailable. (aka, whenever you're moving the character or camera and not interacting with the GUI)***
 
 ## Download
-[![](https://img.shields.io/badge/download-RBXCursorForce.zip-red)](https://github.com/Lexz-08/RBXCursorForce/releases/download/latest/RBXCursorForce.zip)
+[![](https://img.shields.io/badge/download-RBXCursorForce.zip-red)](https://github.com/Lexz-08/RBXCursorForce/releases/rbxcursorforce/download/RBXCursorForce.zip)
